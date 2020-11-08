@@ -1,0 +1,10 @@
+rootProject.name = 'module-gestion-gastos_administrativos-standard'
+
+include ':clean-core-full'
+project(':clean-core-full').projectDir = "E:\\Trabajos\\Projects\\GIT Projects Gradle\\clean-core-full" as File
+
+include ':utils-core'
+project(':utils-core').projectDir = "E:\\Trabajos\\Projects\\GIT Projects Gradle\\utils-core" as File
+
+include ':module-gestion-contabilidad_empresarial-standard'
+project(':module-gestion-contabilidad_empresarial-standard').projectDir = "E:\\Trabajos\\Projects\\GIT Projects Gradle\\module-gestion-contabilidad_empresarial-standard" as File
