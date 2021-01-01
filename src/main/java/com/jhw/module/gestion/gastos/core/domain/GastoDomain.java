@@ -5,11 +5,11 @@
  */
 package com.jhw.module.gestion.gastos.core.domain;
 
-import com.jhw.module.gestion.contabilidad.core.domain.MonedaDomain;
-import com.jhw.module.gestion.contabilidad.core.domain.Pagable;
-import com.jhw.module.gestion.contabilidad.core.domain.CuadreDomain;
+import com.root101.module.gestion.contabilidad.core.domain.MonedaDomain;
+import com.root101.module.gestion.contabilidad.core.domain.Pagable;
+import com.root101.module.gestion.contabilidad.core.domain.CuadreDomain;
 import javax.validation.constraints.NotNull;
-import com.jhw.utils.clean.EntityDomainObjectValidated;
+import com.root101.utils.clean.EntityDomainObjectValidated;
 import java.math.BigDecimal;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.PositiveOrZero;

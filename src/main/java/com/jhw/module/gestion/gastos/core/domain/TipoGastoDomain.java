@@ -5,12 +5,12 @@
  */
 package com.jhw.module.gestion.gastos.core.domain;
 
-import com.jhw.module.gestion.contabilidad.core.domain.MonedaDomain;
-import com.jhw.module.gestion.contabilidad.core.domain.FormaPagoDomain;
-import com.jhw.module.gestion.contabilidad.core.domain.TipoOperacionContableDomain;
-import com.jhw.module.gestion.contabilidad.core.domain.TipoPagable;
-import com.clean.core.utils.SortBy;
-import com.jhw.utils.clean.EntityDomainObjectValidated;
+import com.root101.module.gestion.contabilidad.core.domain.MonedaDomain;
+import com.root101.module.gestion.contabilidad.core.domain.FormaPagoDomain;
+import com.root101.module.gestion.contabilidad.core.domain.TipoOperacionContableDomain;
+import com.root101.module.gestion.contabilidad.core.domain.TipoPagable;
+import com.root101.clean.core.utils.SortBy;
+import com.root101.utils.clean.EntityDomainObjectValidated;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
