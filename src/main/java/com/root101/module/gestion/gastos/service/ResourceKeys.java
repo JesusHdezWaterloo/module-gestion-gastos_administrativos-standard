@@ -23,5 +23,4 @@ package com.root101.module.gestion.gastos.service;
  */
 public class ResourceKeys {
 
-    public static final String KEY_MODULE_NAME_GASTOS = "com.root101.module.gestion.gastos.name";
 }
