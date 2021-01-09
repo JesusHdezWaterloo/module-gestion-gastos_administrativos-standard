@@ -30,7 +30,7 @@ import javax.validation.constraints.PositiveOrZero;
  * @author Root101 (jhernandezb96@gmail.com, +53-5-426-8660)
  * @author JesusHdezWaterloo@Github
  */
-public class GastoDomain extends EntityDomainObjectValidated implements Comparable<GastoDomain>, Pagable{
+public class GastoDomain extends EntityDomainObjectValidated implements Comparable<GastoDomain>, Pagable {
 
     private Integer idGasto;
 
