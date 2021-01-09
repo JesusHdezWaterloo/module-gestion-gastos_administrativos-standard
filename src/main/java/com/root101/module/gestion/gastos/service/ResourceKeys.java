@@ -22,5 +22,5 @@ package com.root101.module.gestion.gastos.service;
  * @author JesusHdezWaterloo@Github
  */
 public class ResourceKeys {
-    
+
 }

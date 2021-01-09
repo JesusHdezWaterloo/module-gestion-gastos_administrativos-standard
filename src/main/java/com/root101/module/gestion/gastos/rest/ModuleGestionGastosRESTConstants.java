@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.root101.module.gestion.gastos.core;
+package com.root101.module.gestion.gastos.rest;
 
 import org.springframework.web.bind.annotation.RequestMethod;
 
@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * @author Root101 (jhernandezb96@gmail.com, +53-5-426-8660)
  * @author JesusHdezWaterloo@Github
  */
-public class ModuleGestionGastosConstants {
+public class ModuleGestionGastosRESTConstants {
 
     public static final String GASTOS_GENERAL_PATH = "/gasto";
 
